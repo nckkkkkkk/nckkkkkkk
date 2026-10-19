@@ -29,10 +29,6 @@ My work spans the full infrastructure lifecycle: architecture design, IaC, obser
 - **Reksoft International** — Kubernetes from 0 to production, supported 100-member dev-engineering team
 - **LUCY Security** — 300+ Linux servers, cybersecurity infrastructure, WAF, OpenVPN
 
-## 🌍 Currently
-
-Based in Cape Town 🇿🇦 & Tbilisi 🇬🇪
-
 ## 📫 Get in touch
 
 - LinkedIn — [nick-shchekoldin](https://www.linkedin.com/in/nick-shchekoldin/)
