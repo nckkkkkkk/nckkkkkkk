@@ -1,6 +1,6 @@
 # Hey, I'm Nik 👋
 
-Senior DevOps / SRE Engineer with 8+ years of experience building and operating infrastructure across Web3, DeFi, Banking, ML/AI, and Enterprise environments. I've worked at Lido (Ethereum liquid staking), Mobilize Financial Services, and across cybersecurity and telecom sectors.
+Senior DevOps / SRE Engineer with 8+ years of experience building and operating infrastructure across Web3, DeFi, Banking, ML/AI, and Enterprise environments. I've worked at Lido (Ethereum liquid staking), Renault, and across cybersecurity and telecom sectors.
 
 ## 🧱 What I do
 
