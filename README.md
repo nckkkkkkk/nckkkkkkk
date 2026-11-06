@@ -14,7 +14,7 @@ My work spans the full infrastructure lifecycle: architecture design, IaC, obser
 - **IaC & Config**: Terraform · Ansible · CloudFormation
 - **Cloud**: GCP · AWS · Hetzner
 - **CI/CD**: GitLab CI · GitHub Actions · Jenkins
-- **Monitoring**: Prometheus · Grafana · Alertmanager · EFK · Zabbix · CloudWatch
+- **Monitoring**: Prometheus · Grafana · Alertmanager · Loki · Zabbix · CloudWatch
 - **Blockchain**: Ethereum (Geth, Erigon, Lighthouse) · Lido protocol · TON ecosystem
 - **Security**:  WAF · OpenVPN · network hardening · key management
 - **Databases**: PostgreSQL · Redis
